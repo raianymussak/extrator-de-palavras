@@ -8,5 +8,10 @@ function mostraPalavrasChave(){
     const palavraChave = processaTexto(texto); 
     
     campoResultado.textoContent = palavras; 
+    
+    function processaTexto(texto) {
+        let palavra = texto.split(/\P(L)+/u);
+        return palavras;
+    }
 
 }
