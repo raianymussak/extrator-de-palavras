@@ -3,7 +3,7 @@
 :root {
     --cor-destaque: #ED145B;
     --cor-gradiente-preto: rgb(131, 112, 150);
-
+}
 * {
     margin: 0;
     padding: 0;
@@ -83,5 +83,4 @@ h1 {
     max-width: 100%;
     max-height: 50vh;
     overflow: auto;
-}
 }
