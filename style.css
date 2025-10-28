@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-    background: rgb(99, 32, 32);
+    background: rgb(19, 19, 19);
     height: 100vh;
     flex-direction: column;
 }
@@ -51,7 +51,7 @@ h1 {
 }
 
 #entrada-de-texto::placeholder {
-    color: #8f1515;
+    color: #c76c6c;
     font-size: 2rem;
     font-weight: 400;
     line-height: normal;
