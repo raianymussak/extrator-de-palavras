@@ -1,3 +1,5 @@
+import { PALAVRAS_RUINS } from "./palavrasRuins.js";
+
 const botaoMostraPalavras = document.querySelector( "#botao-paçavrachave");
 
 botaoMostraPalavras.addEventListener( " click", mostraPalavrasChave);
